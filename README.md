@@ -1,3 +1,4 @@
+file:///H:/Downloads/reshot-icon-database-setting-QKN5FM3C96.svg
 ## Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository |
