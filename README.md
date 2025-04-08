@@ -1,4 +1,4 @@
-## Data Warehouse and Analytics Project
+<img src="H:\Downloads\reshot-icon-database-setting-QKN5FM3C96.svg"" width="50" height="50">## Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository |
 This Project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating  actionable insights designed as a portfolio project
