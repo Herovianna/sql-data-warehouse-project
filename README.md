@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/b0f64f91-64c8-4f9c-801e-42ac51596fe1)
+
 ## Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository |
