@@ -3,13 +3,13 @@
 ## Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository |
-This Project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating  actionable insights designed as a portfolio project
+This Project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating  actionable insights, designed as a portfolio project
 highlights industry best practices in data engineering and analytics
 
 
 ## Project Requirements
 
- <img src="https://github.com/user-attachments/assets/417a94ac-d298-4891-9634-694f917aaed9" width="20" />  #### Building a Data Warehouse (Data Engineering) 
+ <img src="https://github.com/user-attachments/assets/417a94ac-d298-4891-9634-694f917aaed9" width="20" />  ### Building a Data Warehouse (Data Engineering) 
 
   ### Objective
   Develop a modern warehouse using SQL Server to consolidate sales data, enabling analytical  reporting and informing decision-making
