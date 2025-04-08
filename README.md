@@ -9,9 +9,7 @@ highlights industry best practices in data engineering and analytics
 
 ## Project Requirements
 
- <img src="https://github.com/user-attachments/assets/417a94ac-d298-4891-9634-694f917aaed9" width="40" /> 
- 
- ### Building a Data Warehouse (Data Engineering)
+ ### Building a Data Warehouse (Data Engineering)  <img src="https://github.com/user-attachments/assets/417a94ac-d298-4891-9634-694f917aaed9" width="40" /> 
 
   ### Objective
   Develop a modern warehouse using SQL Server to consolidate sales data, enabling analytical  reporting and informing decision-making
