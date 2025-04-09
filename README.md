@@ -1,6 +1,7 @@
-<img src="https://github.com/user-attachments/assets/b0f64f91-64c8-4f9c-801e-42ac51596fe1" width="40" />
-
-## Data Warehouse and Analytics Project
+<h3>
+  <img src="https://github.com/user-attachments/assets/b0f64f91-64c8-4f9c-801e-42ac51596fe1" width="20" style="vertical-align:middle; margin-right:8px;" />
+  Data Warehouse and Analytics Project
+</h3>
 
 Welcome to the **Data Warehouse and Analytics Project** repository |
 This Project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating  actionable insights, designed as a portfolio project
