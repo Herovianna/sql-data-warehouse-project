@@ -1,5 +1,5 @@
 <h3>
-  <img src="https://github.com/user-attachments/assets/b0f64f91-64c8-4f9c-801e-42ac51596fe1" width="20" style="vertical-align:middle; margin-right:8px;" />
+  <img src="https://github.com/user-attachments/assets/b0f64f91-64c8-4f9c-801e-42ac51596fe1" width="70" style="vertical-align:middle; margin-right:8px;" />
   Data Warehouse and Analytics Project
 </h3>
 
@@ -11,7 +11,7 @@ highlights industry best practices in data engineering and analytics
 ## Project Requirements
 
  <h3>
-  <img src="https://github.com/user-attachments/assets/417a94ac-d298-4891-9634-694f917aaed9" width="40" style="vertical-align:middle; margin-right: 8px;" />
+  <img src="https://github.com/user-attachments/assets/417a94ac-d298-4891-9634-694f917aaed9" width="70" style="vertical-align:middle; margin-right: 8px;" />
   Building a Data Warehouse (Data Engineering)
 </h3>
   ### Objective
@@ -26,7 +26,7 @@ highlights industry best practices in data engineering and analytics
 
 
   <h3>
-  <img src="https://github.com/user-attachments/assets/a8afb72f-b808-48be-a941-2128f36d819e" width="40" style="vertical-align:middle; margin-right:8px;" />
+  <img src="https://github.com/user-attachments/assets/a8afb72f-b808-48be-a941-2128f36d819e" width="70" style="vertical-align:middle; margin-right:8px;" />
   BI: Analytics and Reporting (Data Analytics)
 </h3>
 
