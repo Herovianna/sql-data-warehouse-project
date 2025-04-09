@@ -24,7 +24,10 @@ highlights industry best practices in data engineering and analytics
   - **Documentation** Provide clear data model documentation to support business, stakeholders and analytics teams.
 
 
-  ### BI: Analytics and Reporting (Data Analytics)
+  <h3>
+  <img src="https://github.com/user-attachments/assets/a8afb72f-b808-48be-a941-2128f36d819e" width="20" style="vertical-align:middle; margin-right:8px;" />
+  BI: Analytics and Reporting (Data Analytics)
+</h3>
 
   #### Objective
   Develop SQL-based analytics to deliver detailed insights into:
