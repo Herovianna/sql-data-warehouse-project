@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://github.com/user-attachments/assets/b0f64f91-64c8-4f9c-801e-42ac51596fe1" width="50" style="vertical-align:middle; margin-right:20px;" />
+  <img src="https://github.com/user-attachments/assets/b0f64f91-64c8-4f9c-801e-42ac51596fe1" width="50" style="vertical-align:top; margin-right:20px;" />
   <strong>Data Warehouse and Analytics Project</strong>
 </h1>
 
@@ -11,7 +11,7 @@ highlights industry best practices in data engineering and analytics
 ## Project Requirements
 
 <h1>
-  <img src="https://github.com/user-attachments/assets/417a94ac-d298-4891-9634-694f917aaed9" width="50" style="vertical-align:middle; margin-right:20px;" />
+  <img src="https://github.com/user-attachments/assets/417a94ac-d298-4891-9634-694f917aaed9" width="50" style="vertical-align:top; margin-right:20px;" />
   <strong>Building a Data Warehouse (Data Engineering)</strong>
 </h1>
   ### Objective
@@ -26,7 +26,7 @@ highlights industry best practices in data engineering and analytics
 
 
  <h1>
-  <img src="https://github.com/user-attachments/assets/a8afb72f-b808-48be-a941-2128f36d819e" width="50" style="vertical-align:middle; margin-right:20px;" />
+  <img src="https://github.com/user-attachments/assets/a8afb72f-b808-48be-a941-2128f36d819e" width="50" style="vertical-align:top; margin-right:20px;" />
   <strong>BI: Analytics and Reporting (Data Analytics)</strong>
 </h1>
   ### Objective
@@ -40,7 +40,7 @@ highlights industry best practices in data engineering and analytics
 ---
 
 <h1>
-  <img src="https://github.com/user-attachments/assets/0201a15d-c1f9-497c-b3d0-51c4cdf6cb65" width="50" style="vertical-align:middle; margin-right:20px;" />
+  <img src="https://github.com/user-attachments/assets/0201a15d-c1f9-497c-b3d0-51c4cdf6cb65" width="50" style="vertical-align:top; margin-right:20px;" />
   <strong>License</strong>
 </h1>
 
