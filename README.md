@@ -26,7 +26,7 @@ highlights industry best practices in data engineering and analytics
 
 
  <h1>
-  <img src="https://github.com/user-attachments/assets/a8afb72f-b808-48be-a941-2128f36d819e" width="50" style="vertical-align:bottom; margin-right:20px;" />
+  <img src="https://github.com/user-attachments/assets/a8afb72f-b808-48be-a941-2128f36d819e" width="50" style="vertical-align:bottom; margin-right:20px; margin-top:50px" />
   <strong>BI: Analytics and Reporting (Data Analytics)</strong>
 </h1>
   ### Objective
