@@ -40,7 +40,10 @@ highlights industry best practices in data engineering and analytics
 
 ---
 
-##License
+<h2>
+  <img src="https://github.com/user-attachments/assets/0201a15d-c1f9-497c-b3d0-51c4cdf6cb65" width="20" style="vertical-align:middle; margin-right:8px;" />
+  License
+</h2>
 
 This project is licensed under [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
